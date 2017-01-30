@@ -1,6 +1,6 @@
-# CSC 207 (Fall 2016) Homework 2: Speed Reader
+# CSC 207 Homework 2: Speed Reader
 
-Directions: [Homework 2 Speed Reader Write-up](http://www.cs.grinnell.edu/~osera/courses/csc207/16fa/homeworks/02-speed-reader.html)
+Directions: [Homework 2 Speed Reader Write-up](http://www.cs.grinnell.edu/~osera/courses/csc207/17fa/homeworks/02-speed-reader.html)
 
 ## About
 
