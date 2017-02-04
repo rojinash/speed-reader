@@ -19,7 +19,6 @@ public class WordGenerator {
 		if (nextWord.contains(".") || nextWord.contains("?") || nextWord.contains("!"))
 			sentenceCounter++;
 		wordCounter++;
-		System.out.println(wordCounter);
 		return nextWord;
 	}
 	
