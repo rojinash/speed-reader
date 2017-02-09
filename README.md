@@ -59,3 +59,59 @@ https://en.wikipedia.org/wiki/Sorita_d'Este
 https://en.wikipedia.org/wiki/Nathaniel_Hitch
 
 https://en.wikipedia.org/wiki/By_Jupiter
+
+## Results
+
+* Papa Kojo Ampim-darko [ampimdar]
+
+Text: 8
+Speed: none
+Score: 4/5
+
+Text: 7
+Speed: 250
+Score: 3/5
+
+Text: 6
+Speed: 350
+Score: 2/5
+
+Text: 5
+Speed: 500
+Score: 2/5
+
+* Ronnie Ruse [rusevero]
+
+Text: 5
+Speed: none
+Score: 4/5
+
+Text: 6
+Speed: 250
+Score: 4/5
+
+Text: 7
+Speed: 350
+Score: 2/5
+
+Text: 8
+Speed: 500
+Score: 2/5
+
+* Jordan Morris [morrisjo]
+
+Text: 6
+Speed: none
+Score: 4/5
+
+Text: 8
+Speed: 250
+Score: 4/5
+
+Text: 5 
+Speed: 350
+Score: 4/5
+
+Text: 7
+Speed: 500
+Score: 3/5
